@@ -1,0 +1,26 @@
+body {
+    background-color: #09134F;
+    color: #9C7700;
+}
+
+h2 {
+	text-align: center;
+    background-color: #824A02;
+}
+
+.table {
+	background-color: #4F3F09;
+}
+
+th {
+	background-color: #469C0B;
+	color: #03179C;
+}
+
+.btn {
+	background-color: #469C0B
+}
+
+.form-control {
+	background-color: #5C2714;
+}
